@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174715324646",
+    "project_id": "mini-chat-app-1be7a",
+    "storage_bucket": "mini-chat-app-1be7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174715324646:android:1edd6a6144a8dbb5291327",
+        "android_client_info": {
+          "package_name": "nti.edu.eg.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1_jeSMr4c-O1LSvULAVymTrWYg5vAX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
